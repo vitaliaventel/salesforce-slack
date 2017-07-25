@@ -4,7 +4,7 @@
 
 public with sharing class AccountCreateSlack {
 
-    private static final String SLACK_URL = 'https://hooks.slack.com/services/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';
+    private static final String SLACK_URL = 'YOUR_URL_CHANGE_IT';
 
     public class Acc {
 
